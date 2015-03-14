@@ -1,0 +1,8 @@
+*.pyc
+*.pyo
+*.log
+./static
+./media
+dist
+node_modules
+secret_key.py
