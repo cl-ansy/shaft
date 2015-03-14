@@ -4,5 +4,6 @@
 ./static
 ./media
 dist
+bower_components
 node_modules
 secret_key.py
